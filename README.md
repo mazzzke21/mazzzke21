@@ -24,7 +24,6 @@
   
   **Движки и Платформы** <br>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
   <img src="https://img.shields.io/badge/Garry's_Mod-1896D3?style=for-the-badge&logo=steam&logoColor=white" alt="Garrys Mod" />
 
   <br><br>

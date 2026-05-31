@@ -2,21 +2,19 @@
 
   <!-- Анимированное приветствие -->
   <a href="https://git.io/typing-svg">
-    <img src="https://github.com/" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=7800FF&center=true&vCenter=true&width=600&height=60&lines=Hello!+I'm+mazzzke21;Unity+Game+Developer;Creating+Worlds+with+C%23" alt="Typing SVG" />
+  </a>
 
-  ###
+  ### Обо мне
 
- Я конченый разработчик, который слабо знает языки, но пытаюсь!
-
+ я занимаюсь геймдевом ведь в жизни мне больше не дано
 </div>
 
 ---
 
 ### 💻 Чем я занимаюсь:
-* 👻 **В разработке:** Ничего.
-* 🌐 **Фокус сейчас:** Изучение сишарпа.
-* 🛠 **Моддинг:** Пишу аддоны для Garry's Mod.
-* 🧠 **Интересы:** геймдев.
+ Пишу аддоны для Garry's Mod на Lua.
+ Вайбкодингом(позор).
 
 ---
 

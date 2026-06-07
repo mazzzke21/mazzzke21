@@ -1,8 +1,6 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=7800FF&center=true&vCenter=true&width=600&height=60&lines=Hello!+I'm+mazzzke21;Unity+Game+Developer;Creating+Worlds+with+C%23" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B21AF7&width=435&lines=Hello!+Im+mazzzke21!" alt="Typing SVG" /></a>
 
   ### Обо мне
 

@@ -1,5 +1,6 @@
 <div align="center">
 
+  <!-- Анимированное приветствие -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B21AF7&width=435&lines=Hello!+Im+mazzzke21!" alt="Typing SVG" /></a>
 
   ### Обо мне
@@ -41,7 +42,7 @@
 ### 📊 Статистика GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazzzke21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mazzzke21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazzzke21&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>

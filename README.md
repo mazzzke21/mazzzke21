@@ -40,15 +40,3 @@
 </div>
 
 ---
-
-### 📊 Статистика GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mazzzke21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazzzke21&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7800FF&height=100&section=footer" />
-</div>
